@@ -1,0 +1,33 @@
+{
+    "name": "avalon",
+    "version": "1.0.0",
+    "repository": "https://github.com/cluzier/avalonbot",
+    "description": "A simple discord music bot",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "discord",
+      "music",
+      "bot"
+    ],
+    "author": "Gabriel Tanner",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.19.2",
+      "cheerio": "^1.0.0-rc.3",
+      "discord.js": "^11.6.2",
+      "ffmpeg": "0.0.4",
+      "fluent-ffmpeg": "^2.1.2",
+      "googleapis": "^30.0.0",
+      "moment": "^2.24.0",
+      "opusscript": "0.0.7",
+      "puppeteer": "^2.1.1",
+      "request": "^2.88.2",
+      "request-promise": "^4.2.5",
+      "sqlite": "^3.0.3",
+      "ytdl-core": "^1.0.7"
+    }
+  }
+  
