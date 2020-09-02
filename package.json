@@ -20,7 +20,7 @@
       "discord.js": "^11.6.2",
       "ffmpeg": "0.0.4",
       "fluent-ffmpeg": "^2.1.2",
-      "googleapis": "^30.0.0",
+      "googleapis": "^59.0.0",
       "moment": "^2.24.0",
       "opusscript": "0.0.7",
       "puppeteer": "^2.1.1",
